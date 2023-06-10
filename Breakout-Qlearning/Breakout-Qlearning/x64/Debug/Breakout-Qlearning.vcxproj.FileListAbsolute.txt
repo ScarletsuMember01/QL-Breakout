@@ -1,0 +1,4 @@
+C:\Users\j2-chen\projects\qlearning-breakout\Breakout-Qlearning\Breakout-Qlearning\x64\Debug\Breakout-Qlearning.vcxproj.AssemblyReference.cache
+C:\Users\j2-chen\projects\qlearning-breakout\Breakout-Qlearning\Breakout-Qlearning\x64\Debug\Breakout-Qlearning.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\j2-chen\projects\qlearning-breakout\Breakout-Qlearning\Breakout-Qlearning\x64\Debug\BreakoutQlearning.MyForm.resources
+C:\Users\j2-chen\projects\qlearning-breakout\Breakout-Qlearning\Breakout-Qlearning\x64\Debug\Breakout-Qlearning.vcxproj.GenerateResource.cache
